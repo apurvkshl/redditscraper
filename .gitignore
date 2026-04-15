@@ -1,0 +1,15 @@
+# Scrape output files — these are data, not code
+*.json
+*.md
+!README.md
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.env
+venv/
+.venv/
+
+# macOS
+.DS_Store
